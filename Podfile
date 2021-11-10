@@ -9,5 +9,7 @@ target 'Snapchat' do
   pod 'Firebase/Analytics'
   pod 'Firebase/Database'
   pod 'Firebase/Auth'
-
+  pod 'GoogleSignIn'
+  pod 'Firebase/Storage'
+  
 end
